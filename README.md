@@ -1,9 +1,9 @@
-# module-template
+# sample-module
 
-Template repository to create new modules
+A minimal test module for checking Vizion Hub installation and uninstallation in OneVizion.
 
-For Python code follow [style guidelines](https://peps.python.org/pep-0008/)
+- No Python code, settings or schedule (non-executable).
+- No configuration components, SQL scripts or data imports.
+- Installation and uninstallation each show one info step.
 
-For configuration installation samples, review files in the `installation` directory
-
-Make sure to rename `.integration_` file to `.integration` for module to be available in the list in UI
+Install with repo URL `https://github.com/Just-Bax/sample-module`, version `master`.

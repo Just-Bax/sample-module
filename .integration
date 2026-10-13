@@ -1,0 +1,2 @@
+# Minimal non-executable test module.
+# No "command" property: the module installs no code, settings or schedule.
